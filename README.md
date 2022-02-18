@@ -2,7 +2,7 @@
 ## I'm Junior Flutter Developer
 * Flutter
 
-[![Telegram]![telegram](https://user-images.githubusercontent.com/11369675/154761580-f65a62d6-3683-4353-ac99-dc808d8a9e1b.png)](https://t.me/systeamnikc)
+[![Telegram](https://user-images.githubusercontent.com/11369675/154761580-f65a62d6-3683-4353-ac99-dc808d8a9e1b.png)](https://t.me/systeamnikc)
 
 <!--
 **nursik08/nursik08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
