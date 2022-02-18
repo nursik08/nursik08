@@ -1,5 +1,10 @@
 ### Hi there 👋
+**Мой технологический стэк:**
+* HTML/CSS
+* JavaScript
+* Flutter
 
+Contact me: [telegram](https://telegram/systeamnik),
 <!--
 **nursik08/nursik08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
