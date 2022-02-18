@@ -1,7 +1,9 @@
 ### Hi there 👋
+## I'm Junior Flutter Developer
 * Flutter
 
-Contact me: <img scr="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" width="25px" />(https://t.me/systeamnik),
+[![Telegram](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png)](https://t.me/systeamnikc)
+
 <!--
 **nursik08/nursik08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
