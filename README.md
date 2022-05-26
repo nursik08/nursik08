@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I'm Junior Flutter Developer
+##
 
 #### Contact me:
 [![Telegram](https://user-images.githubusercontent.com/11369675/154761580-f65a62d6-3683-4353-ac99-dc808d8a9e1b.png)](https://t.me/systeamnik)
